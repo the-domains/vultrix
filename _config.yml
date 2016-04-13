@@ -1,0 +1,28 @@
+name: vultrix
+favicon: null
+layout_spectrum: 0.5634032140951604
+typography_spectrum: 0.3812203835695982
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.37720962427556515
+  lightness: 0.9715868392959237
+  saturation: 0.5627257139422
+  rhythmicContrast: 0.9939169622957706
+purpose: []
